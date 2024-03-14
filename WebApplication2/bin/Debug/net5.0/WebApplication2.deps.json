@@ -33,6 +33,7 @@
     ".NETCoreApp,Version=v5.0": {
       "WebApplication2/1.0.0": {
         "dependencies": {
+          "CsvHelper": "31.0.2",
           "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": "5.0.17",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
           "Microsoft.AspNetCore.Authentication.Abstractions": "5.0.0.0",
@@ -111,7 +112,7 @@
           "Microsoft.AspNetCore.StaticFiles": "5.0.0.0",
           "Microsoft.AspNetCore.WebSockets": "5.0.0.0",
           "Microsoft.AspNetCore.WebUtilities": "5.0.0.0",
-          "Microsoft.CSharp": "5.0.0.0",
+          "Microsoft.CSharp.Reference": "5.0.0.0",
           "Microsoft.Extensions.Caching.Abstractions": "5.0.0.0",
           "Microsoft.Extensions.Caching.Memory": "5.0.0.0",
           "Microsoft.Extensions.Configuration.Abstractions": "5.0.0.0",
@@ -325,6 +326,20 @@
           "WebApplication2.dll": {}
         }
       },
+      "CsvHelper/31.0.2": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.1/CsvHelper.dll": {
+            "assemblyVersion": "31.0.0.0",
+            "fileVersion": "31.0.2.15"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.1/CsvHelper.dll": {}
+        }
+      },
       "Microsoft.AspNetCore.Mvc.Razor.Extensions/5.0.17": {
         "dependencies": {
           "Microsoft.AspNetCore.Razor.Language": "5.0.17",
@@ -500,6 +515,7 @@
           "lib/netstandard2.0/Microsoft.CodeAnalysis.Razor.dll": {}
         }
       },
+      "Microsoft.CSharp/4.7.0": {},
       "Microsoft.Extensions.DependencyModel/5.0.0": {
         "runtime": {
           "lib/netstandard2.0/Microsoft.Extensions.DependencyModel.dll": {
@@ -512,17 +528,9 @@
         }
       },
       "Microsoft.NETCore.Platforms/2.1.2": {},
-      "System.Collections.Immutable/5.0.0": {
-        "compile": {
-          "lib/netstandard2.0/System.Collections.Immutable.dll": {}
-        }
-      },
+      "System.Collections.Immutable/5.0.0": {},
       "System.Memory/4.5.4": {},
-      "System.Reflection.Metadata/5.0.0": {
-        "compile": {
-          "lib/netstandard2.0/System.Reflection.Metadata.dll": {}
-        }
-      },
+      "System.Reflection.Metadata/5.0.0": {},
       "System.Runtime.CompilerServices.Unsafe/4.7.1": {},
       "System.Text.Encoding.CodePages/4.5.1": {
         "dependencies": {
@@ -993,7 +1001,7 @@
         },
         "compileOnly": true
       },
-      "Microsoft.CSharp/5.0.0.0": {
+      "Microsoft.CSharp.Reference/5.0.0.0": {
         "compile": {
           "Microsoft.CSharp.dll": {}
         },
@@ -2237,6 +2245,13 @@
       "serviceable": false,
       "sha512": ""
     },
+    "CsvHelper/31.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ndlIN77XcFm6qqGlNPzl0XjVupMCBVhVSiO+1+X2UhJtnnvkx9f//7FOvlkLuEQ76NC3Y7owa8IOhgtKVa4H7Q==",
+      "path": "csvhelper/31.0.2",
+      "hashPath": "csvhelper.31.0.2.nupkg.sha512"
+    },
     "Microsoft.AspNetCore.Mvc.Razor.Extensions/5.0.17": {
       "type": "package",
       "serviceable": true,
@@ -2285,6 +2300,13 @@
       "sha512": "sha512-TA57romUfl3+yysUHK9+0DCzuPytQ/ljXd9yVad7/Wkw8O5jMwtWxvg4eYS0f/z20Fhw+G9ZIhcvmoNRXPyOcw==",
       "path": "microsoft.codeanalysis.razor/5.0.17",
       "hashPath": "microsoft.codeanalysis.razor.5.0.17.nupkg.sha512"
+    },
+    "Microsoft.CSharp/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pTj+D3uJWyN3My70i2Hqo+OXixq3Os2D1nJ2x92FFo6sk8fYS1m1WLNTs0Dc1uPaViH0YvEEwvzddQ7y4rhXmA==",
+      "path": "microsoft.csharp/4.7.0",
+      "hashPath": "microsoft.csharp.4.7.0.nupkg.sha512"
     },
     "Microsoft.Extensions.DependencyModel/5.0.0": {
       "type": "package",
@@ -2727,7 +2749,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Microsoft.CSharp/5.0.0.0": {
+    "Microsoft.CSharp.Reference/5.0.0.0": {
       "type": "referenceassembly",
       "serviceable": false,
       "sha512": ""
