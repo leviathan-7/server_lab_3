@@ -28,6 +28,35 @@
             </div><!-- end title -->
 
             <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <div class="contact_form">
+                        <div id="message"></div>
+                        <form id="testimonialform" class="row" name="testimonialform" method="post">
+                            <fieldset class="row-fluid">
+                                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                    <input type="text" name="name" id="name" class="form-control" placeholder="Name">
+                                </div>
+                                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                    <input type="text" name="title" id="title" class="form-control" placeholder="Title">
+                                </div>
+                                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                    <input type="text" name="ocupation" id="ocupation" class="form-control" placeholder="Text">
+                                </div>
+                                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                    <input type="text" name="description" id="description" class="form-control" placeholder="Description">
+                                </div>
+                                <div class="col-lg-4 col-md-4 col-sm-4 col-xs-12 text-center">
+                                    <button type="submit" value="SEND" id="submit" class="btn btn-light btn-radius btn-brd grd1 btn-block">Submit</button>
+                                </div>
+                            </fieldset>
+                        </form>
+                    </div>
+                </div><!-- end col -->
+            </div><!-- end row -->
+
+            <br>
+
+            <div class="row">
                 <div class="col-md-12 col-sm-12">
                     <div class="testi-carousel owl-carousel owl-theme">
                     @for (var i = 0; i < Model.Testimonials.Count; i++)

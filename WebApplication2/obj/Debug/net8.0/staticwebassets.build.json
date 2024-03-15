@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NZp1p9t81DGb5eza71S5p5Aw5nnd9XAsS63p1I3+aEQ=",
+  "Hash": "3+PBM3YK+XZXU0h8zIJt30xjl8CX8LYDIU+J18/16dc=",
   "Source": "WebApplication2",
   "BasePath": "_content/WebApplication2",
   "Mode": "Default",
@@ -2865,6 +2865,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\uploads\\about_02.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\uploads\\avatar.jpg",
+      "SourceId": "WebApplication2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\",
+      "BasePath": "_content/WebApplication2",
+      "RelativePath": "uploads/avatar.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\avatar.jpg"
     },
     {
       "Identity": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\uploads\\device_03.png",
