@@ -1,0 +1,761 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\css\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\css\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\css\\css\\icomoon.css"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\css\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\css\\prettyPhoto.css",
+      "PackagePath": "staticwebassets\\css\\css\\prettyPhoto.css"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\css\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\fonts\\IcoMoon-Free.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\IcoMoon-Free.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\css\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\css\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\css\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\css\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\css\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\icomoon.css",
+      "PackagePath": "staticwebassets\\css\\icomoon.css"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\images\\bg.png",
+      "PackagePath": "staticwebassets\\css\\images\\bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\prettyPhoto.css",
+      "PackagePath": "staticwebassets\\css\\prettyPhoto.css"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\uploads\\about_01.jpg",
+      "PackagePath": "staticwebassets\\css\\uploads\\about_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\uploads\\about_02.jpg",
+      "PackagePath": "staticwebassets\\css\\uploads\\about_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\uploads\\device_03.png",
+      "PackagePath": "staticwebassets\\css\\uploads\\device_03.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\uploads\\features_01.jpg",
+      "PackagePath": "staticwebassets\\css\\uploads\\features_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\uploads\\features_02.jpg",
+      "PackagePath": "staticwebassets\\css\\uploads\\features_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\uploads\\features_03.jpg",
+      "PackagePath": "staticwebassets\\css\\uploads\\features_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\uploads\\inner-bg.jpg",
+      "PackagePath": "staticwebassets\\css\\uploads\\inner-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\uploads\\ipad.png",
+      "PackagePath": "staticwebassets\\css\\uploads\\ipad.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\uploads\\logo_01.png",
+      "PackagePath": "staticwebassets\\css\\uploads\\logo_01.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\uploads\\logo_02.png",
+      "PackagePath": "staticwebassets\\css\\uploads\\logo_02.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\uploads\\logo_03.png",
+      "PackagePath": "staticwebassets\\css\\uploads\\logo_03.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\uploads\\logo_04.png",
+      "PackagePath": "staticwebassets\\css\\uploads\\logo_04.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\uploads\\logo_05.png",
+      "PackagePath": "staticwebassets\\css\\uploads\\logo_05.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\uploads\\logo_06.png",
+      "PackagePath": "staticwebassets\\css\\uploads\\logo_06.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\uploads\\parallax_03.jpg",
+      "PackagePath": "staticwebassets\\css\\uploads\\parallax_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\uploads\\parallax_04.jpg",
+      "PackagePath": "staticwebassets\\css\\uploads\\parallax_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\uploads\\parallax_05.png",
+      "PackagePath": "staticwebassets\\css\\uploads\\parallax_05.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\uploads\\portfolio_01.jpg",
+      "PackagePath": "staticwebassets\\css\\uploads\\portfolio_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\uploads\\portfolio_02.jpg",
+      "PackagePath": "staticwebassets\\css\\uploads\\portfolio_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\uploads\\portfolio_03.jpg",
+      "PackagePath": "staticwebassets\\css\\uploads\\portfolio_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\uploads\\portfolio_04.jpg",
+      "PackagePath": "staticwebassets\\css\\uploads\\portfolio_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\uploads\\portfolio_05.jpg",
+      "PackagePath": "staticwebassets\\css\\uploads\\portfolio_05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\uploads\\portfolio_06.jpg",
+      "PackagePath": "staticwebassets\\css\\uploads\\portfolio_06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\uploads\\portfolio_07.jpg",
+      "PackagePath": "staticwebassets\\css\\uploads\\portfolio_07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\uploads\\portfolio_08.jpg",
+      "PackagePath": "staticwebassets\\css\\uploads\\portfolio_08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\uploads\\portfolio_09.jpg",
+      "PackagePath": "staticwebassets\\css\\uploads\\portfolio_09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\uploads\\portfolio_10.jpg",
+      "PackagePath": "staticwebassets\\css\\uploads\\portfolio_10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\uploads\\service_01.jpg",
+      "PackagePath": "staticwebassets\\css\\uploads\\service_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\uploads\\service_02.jpg",
+      "PackagePath": "staticwebassets\\css\\uploads\\service_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\uploads\\service_03.jpg",
+      "PackagePath": "staticwebassets\\css\\uploads\\service_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\uploads\\service_04.jpg",
+      "PackagePath": "staticwebassets\\css\\uploads\\service_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\uploads\\slider_01.jpg",
+      "PackagePath": "staticwebassets\\css\\uploads\\slider_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\uploads\\slider_02.jpg",
+      "PackagePath": "staticwebassets\\css\\uploads\\slider_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\uploads\\slider_03.jpg",
+      "PackagePath": "staticwebassets\\css\\uploads\\slider_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\uploads\\testi_01.png",
+      "PackagePath": "staticwebassets\\css\\uploads\\testi_01.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\uploads\\testi_02.png",
+      "PackagePath": "staticwebassets\\css\\uploads\\testi_02.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\css\\uploads\\testi_03.png",
+      "PackagePath": "staticwebassets\\css\\uploads\\testi_03.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\fonts\\IcoMoon-Free.ttf",
+      "PackagePath": "staticwebassets\\fonts\\IcoMoon-Free.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\images\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\images\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\images\\bg.png",
+      "PackagePath": "staticwebassets\\images\\bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\images\\logo-politic.png",
+      "PackagePath": "staticwebassets\\images\\logo-politic.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\images\\logos\\logo-2.png",
+      "PackagePath": "staticwebassets\\images\\logos\\logo-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\images\\logos\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logos\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\images\\phonebg.png",
+      "PackagePath": "staticwebassets\\images\\phonebg.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\images\\prettyPhoto\\dark_rounded\\btnNext.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_rounded\\btnNext.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\images\\prettyPhoto\\dark_rounded\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_rounded\\btnPrevious.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\images\\prettyPhoto\\dark_rounded\\contentPattern.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_rounded\\contentPattern.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\images\\prettyPhoto\\dark_rounded\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_rounded\\default_thumbnail.gif"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\images\\prettyPhoto\\dark_rounded\\loader.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_rounded\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\images\\prettyPhoto\\dark_rounded\\sprite.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_rounded\\sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\images\\prettyPhoto\\dark_square\\btnNext.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_square\\btnNext.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\images\\prettyPhoto\\dark_square\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_square\\btnPrevious.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\images\\prettyPhoto\\dark_square\\contentPattern.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_square\\contentPattern.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\images\\prettyPhoto\\dark_square\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_square\\default_thumbnail.gif"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\images\\prettyPhoto\\dark_square\\loader.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_square\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\images\\prettyPhoto\\dark_square\\sprite.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\dark_square\\sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\images\\prettyPhoto\\default\\default_thumb.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\default\\default_thumb.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\images\\prettyPhoto\\default\\loader.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\default\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\images\\prettyPhoto\\default\\sprite.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\default\\sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\images\\prettyPhoto\\default\\sprite_next.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\default\\sprite_next.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\images\\prettyPhoto\\default\\sprite_prev.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\default\\sprite_prev.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\images\\prettyPhoto\\default\\sprite_x.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\default\\sprite_x.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\images\\prettyPhoto\\default\\sprite_y.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\default\\sprite_y.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\images\\prettyPhoto\\facebook\\btnNext.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\facebook\\btnNext.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\images\\prettyPhoto\\facebook\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\facebook\\btnPrevious.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\images\\prettyPhoto\\facebook\\contentPatternBottom.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\facebook\\contentPatternBottom.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\images\\prettyPhoto\\facebook\\contentPatternLeft.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\facebook\\contentPatternLeft.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\images\\prettyPhoto\\facebook\\contentPatternRight.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\facebook\\contentPatternRight.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\images\\prettyPhoto\\facebook\\contentPatternTop.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\facebook\\contentPatternTop.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\images\\prettyPhoto\\facebook\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\facebook\\default_thumbnail.gif"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\images\\prettyPhoto\\facebook\\loader.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\facebook\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\images\\prettyPhoto\\facebook\\sprite.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\facebook\\sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\images\\prettyPhoto\\light_rounded\\btnNext.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_rounded\\btnNext.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\images\\prettyPhoto\\light_rounded\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_rounded\\btnPrevious.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\images\\prettyPhoto\\light_rounded\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_rounded\\default_thumbnail.gif"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\images\\prettyPhoto\\light_rounded\\loader.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_rounded\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\images\\prettyPhoto\\light_rounded\\sprite.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_rounded\\sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\images\\prettyPhoto\\light_square\\btnNext.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_square\\btnNext.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\images\\prettyPhoto\\light_square\\btnPrevious.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_square\\btnPrevious.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\images\\prettyPhoto\\light_square\\default_thumbnail.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_square\\default_thumbnail.gif"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\images\\prettyPhoto\\light_square\\loader.gif",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_square\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\images\\prettyPhoto\\light_square\\sprite.png",
+      "PackagePath": "staticwebassets\\images\\prettyPhoto\\light_square\\sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\js\\all.js",
+      "PackagePath": "staticwebassets\\js\\all.js"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\js\\hoverdir.js",
+      "PackagePath": "staticwebassets\\js\\hoverdir.js"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\js\\modernizer.js",
+      "PackagePath": "staticwebassets\\js\\modernizer.js"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\js\\portfolio.js",
+      "PackagePath": "staticwebassets\\js\\portfolio.js"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\uploads\\about_01.jpg",
+      "PackagePath": "staticwebassets\\uploads\\about_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\uploads\\about_02.jpg",
+      "PackagePath": "staticwebassets\\uploads\\about_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\uploads\\device_03.png",
+      "PackagePath": "staticwebassets\\uploads\\device_03.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\uploads\\features_01.jpg",
+      "PackagePath": "staticwebassets\\uploads\\features_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\uploads\\features_02.jpg",
+      "PackagePath": "staticwebassets\\uploads\\features_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\uploads\\features_03.jpg",
+      "PackagePath": "staticwebassets\\uploads\\features_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\uploads\\inner-bg.jpg",
+      "PackagePath": "staticwebassets\\uploads\\inner-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\uploads\\ipad.png",
+      "PackagePath": "staticwebassets\\uploads\\ipad.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\uploads\\logo_01.png",
+      "PackagePath": "staticwebassets\\uploads\\logo_01.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\uploads\\logo_02.png",
+      "PackagePath": "staticwebassets\\uploads\\logo_02.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\uploads\\logo_03.png",
+      "PackagePath": "staticwebassets\\uploads\\logo_03.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\uploads\\logo_04.png",
+      "PackagePath": "staticwebassets\\uploads\\logo_04.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\uploads\\logo_05.png",
+      "PackagePath": "staticwebassets\\uploads\\logo_05.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\uploads\\logo_06.png",
+      "PackagePath": "staticwebassets\\uploads\\logo_06.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\uploads\\parallax_03.jpg",
+      "PackagePath": "staticwebassets\\uploads\\parallax_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\uploads\\parallax_04.jpg",
+      "PackagePath": "staticwebassets\\uploads\\parallax_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\uploads\\parallax_05.png",
+      "PackagePath": "staticwebassets\\uploads\\parallax_05.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\uploads\\portfolio_01.jpg",
+      "PackagePath": "staticwebassets\\uploads\\portfolio_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\uploads\\portfolio_02.jpg",
+      "PackagePath": "staticwebassets\\uploads\\portfolio_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\uploads\\portfolio_03.jpg",
+      "PackagePath": "staticwebassets\\uploads\\portfolio_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\uploads\\portfolio_04.jpg",
+      "PackagePath": "staticwebassets\\uploads\\portfolio_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\uploads\\portfolio_05.jpg",
+      "PackagePath": "staticwebassets\\uploads\\portfolio_05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\uploads\\portfolio_06.jpg",
+      "PackagePath": "staticwebassets\\uploads\\portfolio_06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\uploads\\portfolio_07.jpg",
+      "PackagePath": "staticwebassets\\uploads\\portfolio_07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\uploads\\portfolio_08.jpg",
+      "PackagePath": "staticwebassets\\uploads\\portfolio_08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\uploads\\portfolio_09.jpg",
+      "PackagePath": "staticwebassets\\uploads\\portfolio_09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\uploads\\portfolio_10.jpg",
+      "PackagePath": "staticwebassets\\uploads\\portfolio_10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\uploads\\service_01.jpg",
+      "PackagePath": "staticwebassets\\uploads\\service_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\uploads\\service_02.jpg",
+      "PackagePath": "staticwebassets\\uploads\\service_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\uploads\\service_03.jpg",
+      "PackagePath": "staticwebassets\\uploads\\service_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\uploads\\service_04.jpg",
+      "PackagePath": "staticwebassets\\uploads\\service_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\uploads\\slider_01.jpg",
+      "PackagePath": "staticwebassets\\uploads\\slider_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\uploads\\slider_02.jpg",
+      "PackagePath": "staticwebassets\\uploads\\slider_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\uploads\\slider_03.jpg",
+      "PackagePath": "staticwebassets\\uploads\\slider_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\uploads\\testi_01.png",
+      "PackagePath": "staticwebassets\\uploads\\testi_01.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\uploads\\testi_02.png",
+      "PackagePath": "staticwebassets\\uploads\\testi_02.png"
+    },
+    {
+      "Id": "C:\\Users\\Mike\\Desktop\\Labs\\Server\\lab_3\\WebApplication2\\WebApplication2\\wwwroot\\uploads\\testi_03.png",
+      "PackagePath": "staticwebassets\\uploads\\testi_03.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebApplication2.props",
+      "PackagePath": "build\\WebApplication2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication2.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebApplication2.props",
+      "PackagePath": "buildTransitive\\WebApplication2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

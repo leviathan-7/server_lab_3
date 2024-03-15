@@ -1,0 +1,124 @@
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net8.0\appsettings.json
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net8.0\portfolio.json
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net8.0\WebApplication2.staticwebassets.runtime.json
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net8.0\WebApplication2.exe
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net8.0\WebApplication2.deps.json
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net8.0\WebApplication2.runtimeconfig.json
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net8.0\WebApplication2.dll
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net8.0\WebApplication2.pdb
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.csproj.AssemblyReference.cache
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.AssemblyInfo.cs
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.RazorAssemblyInfo.cache
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.RazorAssemblyInfo.cs
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication2.props
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication2.props
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication2.props
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\obj\Debug\net8.0\scopedcss\bundle\WebApplication2.styles.css
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\obj\Debug\net8.0\WebAppli.0DB3FC1A.Up2Date
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.dll
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\obj\Debug\net8.0\refint\WebApplication2.dll
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.pdb
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.genruntimeconfig.cache
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\obj\Debug\net8.0\ref\WebApplication2.dll
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\bin\Debug\net8.0\appsettings.json
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\bin\Debug\net8.0\portfolio.json
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\bin\Debug\net8.0\WebApplication2.staticwebassets.runtime.json
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\bin\Debug\net8.0\WebApplication2.exe
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\bin\Debug\net8.0\WebApplication2.deps.json
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\bin\Debug\net8.0\WebApplication2.runtimeconfig.json
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\bin\Debug\net8.0\WebApplication2.dll
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\bin\Debug\net8.0\WebApplication2.pdb
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.csproj.AssemblyReference.cache
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.AssemblyInfo.cs
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.RazorAssemblyInfo.cache
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.RazorAssemblyInfo.cs
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication2.props
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication2.props
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication2.props
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\obj\Debug\net8.0\scopedcss\bundle\WebApplication2.styles.css
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\obj\Debug\net8.0\WebAppli.0DB3FC1A.Up2Date
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.dll
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\obj\Debug\net8.0\refint\WebApplication2.dll
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.pdb
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.genruntimeconfig.cache
+C:\Users\Mike\Desktop\Labs\Server\lab_3\WebApplication2\WebApplication2\obj\Debug\net8.0\ref\WebApplication2.dll
