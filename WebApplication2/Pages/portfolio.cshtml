@@ -29,15 +29,24 @@
         </div><!-- end container -->
 
         <div class="container-fluid">
-            <div class="row">
+        @{
+            var portfolios = PortfolioModel.GetPortfolios();
+        }
+        <div class="row">
                 <div class="col-md-12">
                     <nav class="portfolio-filter text-center">
                         <ul>
+                            @{
+                            int cat1 = (from portfolio in portfolios where portfolio.cat == "cat1" select portfolio).Count();
+                            int cat2 = (from portfolio in portfolios where portfolio.cat == "cat2" select portfolio).Count();
+                            int cat3 = (from portfolio in portfolios where portfolio.cat == "cat3" select portfolio).Count();
+                            int cat4 = (from portfolio in portfolios where portfolio.cat == "cat4" select portfolio).Count();
+                            }
                             <li><a class="btn btn-dark btn-radius btn-brd active" href="#" data-filter="*"><span class="oi hidden-xs" data-glyph="grid-three-up"></span> All</a></li>
-                            <li><a class="btn btn-dark btn-radius btn-brd" data-toggle="tooltip" data-placement="top" title="5" href="#" data-filter=".cat1">Design</a></li>
-                            <li><a class="btn btn-dark btn-radius btn-brd" href="#" data-toggle="tooltip" data-placement="top" title="12" data-filter=".cat2">Mockup</a></li>
-                            <li><a class="btn btn-dark btn-radius btn-brd" href="#" data-toggle="tooltip" data-placement="top" title="21" data-filter=".cat3">Logos</a></li>
-                            <li><a class="btn btn-dark btn-radius btn-brd" href="#" data-toggle="tooltip" data-placement="top" title="11" data-filter=".cat4">HTML</a></li>
+                        <li><a class="btn btn-dark btn-radius btn-brd" data-toggle="tooltip" data-placement="top" title="@cat1" href="#" data-filter=".cat1">Design</a></li>
+                        <li><a class="btn btn-dark btn-radius btn-brd" href="#" data-toggle="tooltip" data-placement="top" title="@cat2" href="#" data-filter=".cat2">Mockup</a></li>
+                        <li><a class="btn btn-dark btn-radius btn-brd" href="#" data-toggle="tooltip" data-placement="top" title="@cat3" href="#" data-filter=".cat3">Logos</a></li>
+                        <li><a class="btn btn-dark btn-radius btn-brd" href="#" data-toggle="tooltip" data-placement="top" title="@cat4" href="#" data-filter=".cat4">HTML</a></li>
                         </ul>
                     </nav>
                 </div>
@@ -46,97 +55,18 @@
             <hr class="invis">
 
             <div id="da-thumbs" class="da-thumbs portfolio">
-                <div class="post-media pitem item-w1 item-h1 cat1">
-                    <a href="uploads/portfolio_01.jpg" data-rel="prettyPhoto[gal]">
-                        <img src="uploads/portfolio_01.jpg" alt="" class="img-responsive">
+            @for (var i = 0; i < portfolios.Count; i++)
+                {
+                <div class="post-media pitem item-w1 item-h1 @portfolios[i].cat">
+                    <a href="uploads/@portfolios[i].imgHref" data-rel="prettyPhoto[gal]">
+                        <img src="uploads/@portfolios[i].imgHref" alt="" class="img-responsive">
                         <div>
-                            <h3>Seahorse by Trevor <small>Web Design</small></h3>
+                            <h3>@portfolios[i].text <small>@portfolios[i].smalText</small></h3>
                             <i class="flaticon-unlink"></i>
                         </div>
                     </a>
                 </div>
-                <div class="post-media pitem item-w1 item-h1 cat2">
-                    <a href="uploads/portfolio_02.jpg" data-rel="prettyPhoto[gal]">
-                        <img src="uploads/portfolio_02.jpg" alt="" class="img-responsive">
-                        <div>
-                            <h3>Tradested Mockop <small>Graphic Design</small></h3>
-                            <i class="flaticon-unlink"></i>
-                        </div>
-                    </a>
-                </div>
-                <div class="post-media pitem item-w1 item-h1 cat1">
-                    <a href="uploads/portfolio_03.jpg" data-rel="prettyPhoto[gal]">
-                        <img src="uploads/portfolio_03.jpg" alt="" class="img-responsive">
-                        <div>
-                            <h3>Photography Material <small>Photography</small></h3>
-                            <i class="flaticon-unlink"></i>
-                        </div>
-                    </a>
-                </div>
-                <div class="post-media pitem item-w1 item-h1 cat4">
-                    <a href="uploads/portfolio_04.jpg" data-rel="prettyPhoto[gal]">
-                        <img src="uploads/portfolio_04.jpg" alt="" class="img-responsive">
-                        <div>
-                            <h3>Responsive Menu <small>UI Design</small></h3>
-                            <i class="flaticon-unlink"></i>
-                        </div>
-                    </a>
-                </div>
-                <div class="post-media pitem item-w1 item-h1 cat3">
-                    <a href="uploads/portfolio_05.jpg" data-rel="prettyPhoto[gal]">
-                        <img src="uploads/portfolio_05.jpg" alt="" class="img-responsive">
-                        <div>
-                            <h3>SnowMaker App <small>Application</small></h3>
-                            <i class="flaticon-unlink"></i>
-                        </div>
-                    </a>
-                </div>
-                <div class="post-media pitem item-w1 item-h1 cat2">
-                    <a href="uploads/portfolio_06.jpg" data-rel="prettyPhoto[gal]">
-                        <img src="uploads/portfolio_06.jpg" alt="" class="img-responsive">
-                        <div>
-                            <h3>3D Mockups <small>Graphic Design</small></h3>
-                            <i class="flaticon-unlink"></i>
-                        </div>
-                    </a>
-                </div>
-                <div class="post-media pitem item-w1 item-h1 cat1">
-                    <a href="uploads/portfolio_07.jpg" data-rel="prettyPhoto[gal]">
-                        <img src="uploads/portfolio_07.jpg" alt="" class="img-responsive">
-                        <div>
-                            <h3>Best of Design <small>Web Design</small></h3>
-                            <i class="flaticon-unlink"></i>
-                        </div>
-                    </a>
-                </div>
-                <div class="post-media pitem item-w1 item-h1 cat4">
-                    <a href="uploads/portfolio_08.jpg" data-rel="prettyPhoto[gal]">
-                        <img src="uploads/portfolio_08.jpg" alt="" class="img-responsive">
-                        <div>
-                            <h3>Admin Dashboard <small>Admin Template</small></h3>
-                            <i class="flaticon-unlink"></i>
-                        </div>
-                    </a>
-                </div>
-                <div class="post-media pitem item-w1 item-h1 cat3">
-                    <a href="uploads/portfolio_09.jpg" data-rel="prettyPhoto[gal]">
-                        <img src="uploads/portfolio_09.jpg" alt="" class="img-responsive">
-                        <div>
-                            <h3>Radio Mockup <small>Graphic Design</small></h3>
-                            <i class="flaticon-unlink"></i>
-                        </div>
-                    </a>
-                </div>
-
-                <div class="post-media pitem item-w1 item-h1 cat2">
-                    <a href="uploads/portfolio_10.jpg" data-rel="prettyPhoto[gal]">
-                        <img src="uploads/portfolio_10.jpg" alt="" class="img-responsive">
-                        <div>
-                            <h3>Danny Jeffers <small>Web Design</small></h3>
-                            <i class="flaticon-unlink"></i>
-                        </div>
-                    </a>
-                </div>
+            }
             </div><!-- end portfolio -->
         </div><!-- end container -->
     </div><!-- end section -->

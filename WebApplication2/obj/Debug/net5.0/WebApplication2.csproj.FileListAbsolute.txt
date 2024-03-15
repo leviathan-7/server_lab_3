@@ -1320,7 +1320,6 @@ C:\Users\Mike\Desktop\Labs\Серверное программирование\�
 C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net5.0\refs\System.Resources.Reader.dll
 C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
 C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net5.0\refs\System.Resources.Writer.dll
-C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
 C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
 C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net5.0\refs\System.Runtime.dll
 C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
@@ -1354,8 +1353,6 @@ C:\Users\Mike\Desktop\Labs\Серверное программирование\�
 C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net5.0\refs\System.Text.Encoding.CodePages.dll
 C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net5.0\refs\System.Text.Encoding.dll
 C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net5.0\refs\System.Text.Encoding.Extensions.dll
-C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net5.0\refs\System.Text.Encodings.Web.dll
-C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net5.0\refs\System.Text.Json.dll
 C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net5.0\refs\System.Text.RegularExpressions.dll
 C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net5.0\refs\System.Threading.Channels.dll
 C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net5.0\refs\System.Threading.dll
@@ -1461,3 +1458,8 @@ C:\Users\Mike\Desktop\Labs\Серверное программирование\�
 C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\obj\Debug\net5.0\WebApplication2.pdb
 C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\obj\Debug\net5.0\WebApplication2.genruntimeconfig.cache
 C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\obj\Debug\net5.0\ref\WebApplication2.dll
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net5.0\System.Text.Encodings.Web.dll
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net5.0\System.Text.Json.dll
+C:\Users\Mike\Desktop\Labs\Серверное программирование\Лаба 3\WebApplication2\WebApplication2\bin\Debug\net5.0\portfolio.json

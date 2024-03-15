@@ -32,7 +32,7 @@ namespace WebApplication2.Pages
             csvWriter.NextRecord();
             csvWriter.WriteRecord(inf);
 
-            return Content("<fieldset><div id='success_page'><h1>Email Sent Successfully.</h1><p>Thank you <strong>$first_name</strong>, your message has been submitted to us.</p></div></fieldset>");
+            return Content("<fieldset><div id='success_page'><h1>Email Sent Successfully.</h1><p>Thank you <strong>" + inf.first_name + "</strong>, your message has been submitted to us.</p></div></fieldset>");
         }
     }
 }
