@@ -16,22 +16,22 @@ namespace WebApplication2.Pages
     public class PortfolioModel : PageModel
     {
         private readonly WebContext _context;
-        public PortfolioModel(WebContext db)
+        private readonly JsonContext _JsonContext;
+
+        public PortfolioModel(WebContext db, JsonContext jc)
         {
             _context = db;
+            _JsonContext = jc;
+
         }
+
         public List<Testimonial> Testimonials { get; set; }
+        public List<Portfolios> portfolios { get; set; }
         public void OnGet()
         {
             Testimonials = _context.Testimonials.AsNoTracking().ToList();
+            portfolios = _JsonContext.portfolios;
         }
 
-        public record Portfolios(string imgHref, string text, string smalText, string cat);
-
-        public static List<Portfolios> GetPortfolios()
-        {
-            var fs = new FileStream("portfolio.json", FileMode.OpenOrCreate);
-            return JsonSerializer.Deserialize<List<Portfolios>>(fs);
-        }
     }
 }

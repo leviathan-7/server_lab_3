@@ -30,6 +30,8 @@ namespace WebApplication2
             builder.Services.AddSqlite<WebContext>(
                 builder.Configuration.GetConnectionString("Default"));
 
+            builder.Services.AddSingleton(new JsonContext());
+
 
             var app = builder.Build();
 
